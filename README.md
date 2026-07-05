@@ -2,7 +2,7 @@
 
 **FABLE** (Framework for Agentic Behavioral Language Excellence) — the most complete collection of Claude Fable 5's behavioral patterns, distilled into installable Claude Code skills.
 
-Built from Claude Fable 5's leaked system prompts (3,800+ lines verbatim), 72 Claude Code session traces, 953 chain-of-thought traces, the Boeing 747 agentic session, and measured behavioral data across 382 sessions. Merged from 10+ open-source Fable skill repos into one definitive package.
+Built from Claude Fable 5's leaked system prompts (3,800+ lines verbatim), 72 Claude Code session traces, 953 chain-of-thought traces, and measured behavioral data across 382 sessions. 
 
 ## Install
 
